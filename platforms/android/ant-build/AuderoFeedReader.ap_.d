@@ -1,6 +1,5 @@
 /Users/gaagaalee/Projects/PhoneGap/audero-feed-reader/platforms/android/ant-build/AuderoFeedReader.ap_ \
  : /Users/gaagaalee/Projects/PhoneGap/audero-feed-reader/platforms/android/res/drawable/icon.png \
-/Users/gaagaalee/Projects/PhoneGap/audero-feed-reader/platforms/android/res/drawable-hdpi/icon.png \
 /Users/gaagaalee/Projects/PhoneGap/audero-feed-reader/platforms/android/res/drawable-land-hdpi/screen.png \
 /Users/gaagaalee/Projects/PhoneGap/audero-feed-reader/platforms/android/res/drawable-land-ldpi/screen.png \
 /Users/gaagaalee/Projects/PhoneGap/audero-feed-reader/platforms/android/res/drawable-land-mdpi/screen.png \
@@ -12,7 +11,6 @@
 /Users/gaagaalee/Projects/PhoneGap/audero-feed-reader/platforms/android/res/values/strings.xml \
 /Users/gaagaalee/Projects/PhoneGap/audero-feed-reader/platforms/android/res/xml/config.xml \
 /Users/gaagaalee/Projects/PhoneGap/audero-feed-reader/platforms/android/ant-build/res/drawable/icon.png \
-/Users/gaagaalee/Projects/PhoneGap/audero-feed-reader/platforms/android/ant-build/res/drawable-hdpi/icon.png \
 /Users/gaagaalee/Projects/PhoneGap/audero-feed-reader/platforms/android/ant-build/res/drawable-land-hdpi/screen.png \
 /Users/gaagaalee/Projects/PhoneGap/audero-feed-reader/platforms/android/ant-build/res/drawable-land-ldpi/screen.png \
 /Users/gaagaalee/Projects/PhoneGap/audero-feed-reader/platforms/android/ant-build/res/drawable-land-mdpi/screen.png \
